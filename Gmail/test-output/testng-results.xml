@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23402" started-at="2018-09-02T01:09:42Z" finished-at="2018-09-02T01:10:05Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23402" started-at="2018-09-02T01:09:42Z" finished-at="2018-09-02T01:10:05Z">
+      <class name="gmail.Gmail">
+        <test-method status="PASS" signature="chrometest()[pri:0, instance:gmail.Gmail@5ecddf8f]" name="chrometest" duration-ms="23387" started-at="2018-09-02T06:39:42Z" finished-at="2018-09-02T06:40:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chrometest -->
+      </class> <!-- gmail.Gmail -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
